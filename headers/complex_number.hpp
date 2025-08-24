@@ -3,6 +3,8 @@
 #include <memory>
 #include <cmath>
 #include <numbers>
+#include <fstream>
+#include <string>
 
 class complex_number{
 public :
